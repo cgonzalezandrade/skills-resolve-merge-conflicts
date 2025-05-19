@@ -1,3 +1,6 @@
-# References
 
-* octocat 1 😈
+## Referencias
+
+- Juan Pérez
+- María López
+
